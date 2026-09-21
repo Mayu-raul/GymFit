@@ -15,7 +15,7 @@ export default function FitnessFeatures() {
           {/* Main Large Image */}
           <div className="relative flex-1 rounded-lg overflow-hidden group min-h-[300px] lg:min-h-0">
             <Image
-              src="https://images.pexels.com/photos/7915228/pexels-photo-7915228.jpeg?auto=compress&cs=tinysrgb&w=1200&q=80"
+              src="https://images.pexels.com/photos/19254710/pexels-photo-19254710.jpeg?auto=compress&cs=tinysrgb&w=1200&q=80"
               alt="Gym facility"
               fill
               className="object-cover transition-transform duration-700 group-hover:scale-105"
