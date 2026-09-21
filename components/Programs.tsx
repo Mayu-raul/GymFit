@@ -27,7 +27,7 @@ export default function Programs() {
     {
       title: "Personal Training",
       description: "One-on-one coaching tailored to your goals.",
-      image: "https://images.pexels.com/photos/6456075/pexels-photo-6456075.jpeg?auto=compress&cs=tinysrgb&w=800&q=80",
+      image: "Personal.png?auto=compress&cs=tinysrgb&w=800&q=80",
     },
     {
       title: "Beginner Program",
